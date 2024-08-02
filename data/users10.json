@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Maia",
+    "last_name": "Pippin",
+    "email": "mpippin0@time.com",
+    "gender": "Female",
+    "ip_address": "24.49.5.25"
+  },
+  {
+    "id": 2,
+    "first_name": "Indira",
+    "last_name": "Allsepp",
+    "email": "iallsepp1@blog.com",
+    "gender": "Female",
+    "ip_address": "199.129.234.91"
+  },
+  {
+    "id": 3,
+    "first_name": "Drugi",
+    "last_name": "Dennistoun",
+    "email": "ddennistoun2@engadget.com",
+    "gender": "Male",
+    "ip_address": "114.160.87.7"
+  },
+  {
+    "id": 4,
+    "first_name": "Bard",
+    "last_name": "Roma",
+    "email": "broma3@yelp.com",
+    "gender": "Male",
+    "ip_address": "249.36.33.207"
+  },
+  {
+    "id": 5,
+    "first_name": "Lin",
+    "last_name": "Tewnion",
+    "email": "ltewnion4@senate.gov",
+    "gender": "Female",
+    "ip_address": "129.192.243.226"
+  },
+  {
+    "id": 6,
+    "first_name": "Andreas",
+    "last_name": "Keddle",
+    "email": "akeddle5@samsung.com",
+    "gender": "Male",
+    "ip_address": "253.4.40.218"
+  },
+  {
+    "id": 7,
+    "first_name": "Raynard",
+    "last_name": "Andrivel",
+    "email": "randrivel6@biblegateway.com",
+    "gender": "Agender",
+    "ip_address": "64.5.76.192"
+  },
+  {
+    "id": 8,
+    "first_name": "Evanne",
+    "last_name": "Chislett",
+    "email": "echislett7@go.com",
+    "gender": "Female",
+    "ip_address": "56.70.151.44"
+  },
+  {
+    "id": 9,
+    "first_name": "Brody",
+    "last_name": "Poxon",
+    "email": "bpoxon8@nyu.edu",
+    "gender": "Male",
+    "ip_address": "217.138.241.39"
+  },
+  {
+    "id": 10,
+    "first_name": "Mil",
+    "last_name": "Clubb",
+    "email": "mclubb9@intel.com",
+    "gender": "Female",
+    "ip_address": "32.110.213.125"
+  }
+]
